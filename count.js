@@ -55,6 +55,8 @@ console.log(uniques.get("loved"));
 
 // 4.5.2. 2
 
+// ! bez średników nie działa 0.o ?!
+
 uniques = new Map();
 console.log(uniques)
 
